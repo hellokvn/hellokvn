@@ -13,6 +13,6 @@
 
 ## Stats
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellokvn&show_icons=true&theme=radical&locale=en&layout=compact" alt="hellokvn" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hellokvn&show_icons=true&theme=radical&locale=en" alt="hellokvn" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hellokvn&theme=radical" alt="hellokvn" /> </p>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellokvn&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="hellokvn" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hellokvn&show_icons=true&theme=radical&locale=en&hide_border=true" alt="hellokvn" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hellokvn&theme=radical&hide_border=true" alt="hellokvn" /> </p>
