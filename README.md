@@ -12,9 +12,14 @@
 ## Stats
 
 <p>
-<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellokvn&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="hellokvn" />
-<img width="33%" src="https://github-readme-stats.vercel.app/api?username=hellokvn&show_icons=true&theme=radical&locale=en&hide_border=true" alt="hellokvn" />
-<img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=hellokvn&theme=radical&hide_border=true" alt="hellokvn" /> </p>
+<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellokvn&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="hellokvn" />
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=hellokvn&show_icons=true&theme=radical&locale=en&hide_border=true" alt="hellokvn" />
+</p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hellokvn&theme=radical&hide_border=true" alt="hellokvn" />
+</p>
 
 ## Activity 30d
 
