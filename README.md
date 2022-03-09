@@ -4,9 +4,9 @@
 
 - [SOLID Principles in TypeScript](https://blog.bitsrc.io/solid-principles-in-typescript-153e6923ffdb)
 - [Node.js & Event Loop: Not So Single-Threaded](https://blog.bitsrc.io/node-js-event-loop-and-multi-threading-e42e5fd16a77)
-- [Transactions in Relational Databases](https://blog.devgenius.io/transactions-in-relation-databases-w-postgres-example-d4c25b760cef)
+- [Transactions in Relational Databases](https://levelup.gitconnected.com/transactions-in-relational-databases-with-postgres-examples-256abc44f0b9)
 - [Difference between Middleware, Interceptor, and Filter in the Nest.js ecosystem?](https://blog.bitsrc.io/difference-between-middleware-interceptor-and-filter-in-the-nest-js-ecosystem-c71fb3ba32f6)
-- [OOP in TypeScript](https://blog.devgenius.io/object-orientated-programming-oop-in-typescript-c1066941f5ee)
+- [OOP in TypeScript](https://betterprogramming.pub/understand-object-oriented-programming-with-typescript-c4ff8afa40d)
 - [How to Study Japanese?](https://medium.com/illumination/how-to-study-japanese-ef5989f391ab)
 
 ## Stats
