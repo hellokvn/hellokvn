@@ -2,6 +2,7 @@
 
 ## Latest Posts
 
+- [Microservices with CQRS and Event Sourcing in TypeScript with NestJS](https://medium.com/gitconnected/microservices-with-cqrs-in-typescript-and-nestjs-5a8af0a56c3a)
 - [Why You Should Use Terraform](https://levelup.gitconnected.com/devops-why-you-should-use-terraform-667f0411e383)
 - [Microservices in Go with gRPC, API Gateway, and Authentication](https://levelup.gitconnected.com/microservices-with-go-grpc-api-gateway-and-authentication-part-1-2-393ad9fc9d30)
 - [Microservices in TypeScript with gRPC, API Gateway, and Authentication](https://levelup.gitconnected.com/nestjs-microservices-with-grpc-api-gateway-and-authentication-part-1-2-650009c03686)
